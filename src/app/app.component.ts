@@ -6,7 +6,7 @@ import { HomeComponent } from './home/home.component';
   standalone: true,
   imports: [HomeComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'onBoarding';
